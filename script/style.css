@@ -56,10 +56,10 @@ A.global:hover {
 	COLOR: #666666; TEXT-DECORATION: underline
 }
 .submenu {
-	TEXT-ALIGN: left; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #b6b6c6; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+	TEXT-ALIGN: left; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #b6b6c6; FONT-SIZE: 13px; FONT-WEIGHT: bold; TEXT-DECORATION: none
 }
 .submenu A {
-	TEXT-ALIGN: left; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #b6b6c6; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+	TEXT-ALIGN: left; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #b6b6c6; FONT-SIZE: 13px; FONT-WEIGHT: bold; TEXT-DECORATION: none
 }
 .ssubmenu {
 	TEXT-ALIGN: left; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #b6b6c6; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
@@ -95,7 +95,7 @@ A.top {
 	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 15px; FONT-WEIGHT: bold
 }
 .ssubhdr {
-	COLOR: #7d198d; FONT-SIZE: 12px; FONT-WEIGHT: bold
+	COLOR: #7d198d; FONT-SIZE: 13px; FONT-WEIGHT: bold
 }
 .sssubhdr {
 	COLOR: #484848; FONT-SIZE: 11px; FONT-WEIGHT: bold
@@ -107,30 +107,30 @@ A.top {
 	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #8282ac; FONT-SIZE: 11px; PADDING-TOP: 2px
 }
 .subhdrtitle {
-	LINE-HEIGHT: 18px; COLOR: #7d198d; FONT-SIZE: 12px
+	LINE-HEIGHT: 18px; COLOR: #7d198d; FONT-SIZE: 13px
 }
 .date_highlight {
 	COLOR: #990000
 }
 P.content {
-	TEXT-ALIGN: justify; LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 12px
+	TEXT-ALIGN: justify; LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 13px
 }
 .content {
-	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 12px
+	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 13px
 }
 TD.content {
-	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 12px
+	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 13px
 }
 .whitecelltable TH {
-	BACKGROUND-COLOR: #ffffcc; FONT-SIZE: 12px
+	BACKGROUND-COLOR: #ffffcc; FONT-SIZE: 13px
 }
 .greencelltable TH {
 	BACKGROUND-COLOR: #669999;
-	FONT-SIZE: 12px;
+	FONT-SIZE: 13px;
 	color: #FFF;
 }
 .black_content {
-	LINE-HEIGHT: 18px; COLOR: #000000; FONT-SIZE: 12px
+	LINE-HEIGHT: 18px; COLOR: #000000; FONT-SIZE: 13px
 }
 
 .whitecelltable TD {
@@ -149,7 +149,7 @@ TH.faqHead {
 	LINE-HEIGHT: 18px; COLOR: #666666; FONT-SIZE: 11px; FONT-WEIGHT: bold
 }
 .faqtable TD {
-	LINE-HEIGHT: 18px; COLOR: #666666; FONT-SIZE: 12px
+	LINE-HEIGHT: 18px; COLOR: #666666; FONT-SIZE: 13px
 }
 .datatable TH {
 	BACKGROUND-COLOR: #c8adda; COLOR: #484848; FONT-SIZE: 11px
@@ -197,7 +197,7 @@ TH.faqHead {
 	TEXT-ALIGN: left; COLOR: #484848; FONT-SIZE: 11px; FONT-WEIGHT: bold
 }
 .area-list TD {
-	PADDING-BOTTOM: 3px; COLOR: #333333; FONT-SIZE: 12px; FONT-WEIGHT: normal
+	PADDING-BOTTOM: 3px; COLOR: #333333; FONT-SIZE: 13px; FONT-WEIGHT: normal
 }
 .ppl-list TH {
 	TEXT-ALIGN: left; COLOR: #484848; FONT-SIZE: 11px; FONT-WEIGHT: bold
@@ -206,10 +206,10 @@ TH.faqHead {
 	TEXT-ALIGN: left; COLOR: #6b6fe9
 }
 .ppl-list TD {
-	PADDING-BOTTOM: 9px; COLOR: #666666; FONT-SIZE: 12px; FONT-WEIGHT: normal
+	PADDING-BOTTOM: 9px; COLOR: #666666; FONT-SIZE: 13px; FONT-WEIGHT: normal
 }
 .p-details {
-	LINE-HEIGHT: normal; COLOR: #666666; FONT-SIZE: 12px; FONT-WEIGHT: normal
+	LINE-HEIGHT: normal; COLOR: #666666; FONT-SIZE: 13px; FONT-WEIGHT: normal
 }
 .s-info {
 	LINE-HEIGHT: 14px; COLOR: #7d198d; FONT-SIZE: 11px; FONT-WEIGHT: normal
@@ -218,19 +218,19 @@ TH.faqHead {
 	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #ececff; PADDING-RIGHT: 10px
 }
 .s-quote {
-	TEXT-ALIGN: left; LINE-HEIGHT: 20px; FONT-FAMILY: Tahoma, Verdana, Arial; COLOR: #7d198d; FONT-SIZE: 12px
+	TEXT-ALIGN: left; LINE-HEIGHT: 20px; FONT-FAMILY: Tahoma, Verdana, Arial; COLOR: #7d198d; FONT-SIZE: 13px
 }
 .headline {
-	FONT-SIZE: 12px; FONT-WEIGHT: bold
+	FONT-SIZE: 13px; FONT-WEIGHT: bold
 }
 .e-type {
-	COLOR: #4a95e8; FONT-SIZE: 12px; FONT-WEIGHT: normal
+	COLOR: #4a95e8; FONT-SIZE: 13px; FONT-WEIGHT: normal
 }
 .txt-archive {
 	FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; COLOR: #3399ff; FONT-SIZE: 13px; FONT-WEIGHT: bold
 }
 .coursetable TD {
-	TEXT-ALIGN: justify; COLOR: #666666; FONT-SIZE: 12px
+	TEXT-ALIGN: justify; COLOR: #666666; FONT-SIZE: 13px
 }
 .coursetable TH {
 	COLOR: #666666; FONT-SIZE: 11px
