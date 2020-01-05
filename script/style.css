@@ -1,6 +1,7 @@
 HTML {
 	MARGIN: 0px; HEIGHT: 100%
 }
+
 .body-cover {
 	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #847788; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: "Tahoma", "Verdana", "Arial"; PADDING-TOP: 0px
 }
@@ -56,10 +57,10 @@ A.global:hover {
 	COLOR: #666666; TEXT-DECORATION: underline
 }
 .submenu {
-	TEXT-ALIGN: left; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #b6b6c6; FONT-SIZE: 13px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+	TEXT-ALIGN: left; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #b6b6c6; FONT-SIZE: 17px; FONT-WEIGHT: bold; TEXT-DECORATION: none
 }
 .submenu A {
-	TEXT-ALIGN: left; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #b6b6c6; FONT-SIZE: 13px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+	TEXT-ALIGN: left; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #b6b6c6; FONT-SIZE: 17px; FONT-WEIGHT: bold; TEXT-DECORATION: none
 }
 .ssubmenu {
 	TEXT-ALIGN: left; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #b6b6c6; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
@@ -89,13 +90,13 @@ A.top {
 	PADDING-LEFT: 45px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; HEIGHT: 60px; COLOR: #3399ff; FONT-SIZE: 22px; VERTICAL-ALIGN: bottom; FONT-WEIGHT: normal
 }
 .subhdr {
-	LINE-HEIGHT: 18px; COLOR: #7d198d; FONT-SIZE: 15px; FONT-WEIGHT: bold
+	LINE-HEIGHT: 18px; COLOR: #7d198d; FONT-SIZE: 20px; FONT-WEIGHT: bold
 }
 .subhdr_b {
-	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 15px; FONT-WEIGHT: bold
+	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 20px; FONT-WEIGHT: bold
 }
 .ssubhdr {
-	COLOR: #7d198d; FONT-SIZE: 13px; FONT-WEIGHT: bold
+	COLOR: #7d198d; FONT-SIZE: 17px; FONT-WEIGHT: bold
 }
 .sssubhdr {
 	COLOR: #484848; FONT-SIZE: 11px; FONT-WEIGHT: bold
@@ -107,30 +108,30 @@ A.top {
 	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"; COLOR: #8282ac; FONT-SIZE: 11px; PADDING-TOP: 2px
 }
 .subhdrtitle {
-	LINE-HEIGHT: 18px; COLOR: #7d198d; FONT-SIZE: 13px
+	LINE-HEIGHT: 18px; COLOR: #7d198d; FONT-SIZE: 17px
 }
 .date_highlight {
 	COLOR: #990000
 }
 P.content {
-	TEXT-ALIGN: justify; LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 13px
+	TEXT-ALIGN: justify; LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 17px
 }
 .content {
-	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 13px
+	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 17px
 }
 TD.content {
-	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 13px
+	LINE-HEIGHT: 18px; COLOR: #484848; FONT-SIZE: 17px
 }
 .whitecelltable TH {
-	BACKGROUND-COLOR: #ffffcc; FONT-SIZE: 13px
+	BACKGROUND-COLOR: #ffffcc; FONT-SIZE: 17px
 }
 .greencelltable TH {
 	BACKGROUND-COLOR: #669999;
-	FONT-SIZE: 13px;
+	FONT-SIZE: 17px;
 	color: #FFF;
 }
 .black_content {
-	LINE-HEIGHT: 18px; COLOR: #000000; FONT-SIZE: 13px
+	LINE-HEIGHT: 18px; COLOR: #000000; FONT-SIZE: 17px
 }
 
 .whitecelltable TD {
@@ -149,7 +150,7 @@ TH.faqHead {
 	LINE-HEIGHT: 18px; COLOR: #666666; FONT-SIZE: 11px; FONT-WEIGHT: bold
 }
 .faqtable TD {
-	LINE-HEIGHT: 18px; COLOR: #666666; FONT-SIZE: 13px
+	LINE-HEIGHT: 18px; COLOR: #666666; FONT-SIZE: 17px
 }
 .datatable TH {
 	BACKGROUND-COLOR: #c8adda; COLOR: #484848; FONT-SIZE: 11px
@@ -179,10 +180,10 @@ TH.faqHead {
 	COLOR: #6b6fe9; TEXT-DECORATION: underline
 }
 .list {
-	LINE-HEIGHT: 13px; COLOR: #666666; FONT-SIZE: 11px
+	LINE-HEIGHT: 17px; COLOR: #666666; FONT-SIZE: 11px
 }
 .list TD {
-	LINE-HEIGHT: 13px; COLOR: #666666; FONT-SIZE: 11px
+	LINE-HEIGHT: 17px; COLOR: #666666; FONT-SIZE: 11px
 }
 .line-space {
 	MARGIN-BOTTOM: 10px
@@ -197,7 +198,7 @@ TH.faqHead {
 	TEXT-ALIGN: left; COLOR: #484848; FONT-SIZE: 11px; FONT-WEIGHT: bold
 }
 .area-list TD {
-	PADDING-BOTTOM: 3px; COLOR: #333333; FONT-SIZE: 13px; FONT-WEIGHT: normal
+	PADDING-BOTTOM: 3px; COLOR: #333333; FONT-SIZE: 17px; FONT-WEIGHT: normal
 }
 .ppl-list TH {
 	TEXT-ALIGN: left; COLOR: #484848; FONT-SIZE: 11px; FONT-WEIGHT: bold
@@ -206,10 +207,10 @@ TH.faqHead {
 	TEXT-ALIGN: left; COLOR: #6b6fe9
 }
 .ppl-list TD {
-	PADDING-BOTTOM: 9px; COLOR: #666666; FONT-SIZE: 13px; FONT-WEIGHT: normal
+	PADDING-BOTTOM: 9px; COLOR: #666666; FONT-SIZE: 17px; FONT-WEIGHT: normal
 }
 .p-details {
-	LINE-HEIGHT: normal; COLOR: #666666; FONT-SIZE: 13px; FONT-WEIGHT: normal
+	LINE-HEIGHT: normal; COLOR: #000000; FONT-SIZE: 17px; FONT-WEIGHT: normal
 }
 .s-info {
 	LINE-HEIGHT: 14px; COLOR: #7d198d; FONT-SIZE: 11px; FONT-WEIGHT: normal
@@ -218,46 +219,46 @@ TH.faqHead {
 	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #ececff; PADDING-RIGHT: 10px
 }
 .s-quote {
-	TEXT-ALIGN: left; LINE-HEIGHT: 20px; FONT-FAMILY: Tahoma, Verdana, Arial; COLOR: #7d198d; FONT-SIZE: 13px
+	TEXT-ALIGN: left; LINE-HEIGHT: 20px; FONT-FAMILY: Tahoma, Verdana, Arial; COLOR: #7d198d; FONT-SIZE: 17px
 }
 .headline {
-	FONT-SIZE: 13px; FONT-WEIGHT: bold
+	FONT-SIZE: 17px; FONT-WEIGHT: bold
 }
 .e-type {
-	COLOR: #4a95e8; FONT-SIZE: 13px; FONT-WEIGHT: normal
+	COLOR: #4a95e8; FONT-SIZE: 17px; FONT-WEIGHT: normal
 }
 .txt-archive {
-	FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; COLOR: #3399ff; FONT-SIZE: 13px; FONT-WEIGHT: bold
+	FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; COLOR: #3399ff; FONT-SIZE: 17px; FONT-WEIGHT: bold
 }
 .coursetable TD {
-	TEXT-ALIGN: justify; COLOR: #666666; FONT-SIZE: 13px
+	TEXT-ALIGN: justify; COLOR: #666666; FONT-SIZE: 17px
 }
 .coursetable TH {
 	COLOR: #666666; FONT-SIZE: 11px
 }
 .courselist {
-	LINE-HEIGHT: 15px; COLOR: #666666; FONT-SIZE: 11px
+	LINE-HEIGHT: 20px; COLOR: #666666; FONT-SIZE: 11px
 }
 .courselist TD {
-	LINE-HEIGHT: 15px; COLOR: #666666; FONT-SIZE: 11px
+	LINE-HEIGHT: 20px; COLOR: #666666; FONT-SIZE: 11px
 }
 P.content-c {
-	TEXT-ALIGN: justify; LINE-HEIGHT: 19px; COLOR: #484848; FONT-SIZE: 13px
+	TEXT-ALIGN: justify; LINE-HEIGHT: 19px; COLOR: #484848; FONT-SIZE: 17px
 }
 .content-c {
-	LINE-HEIGHT: 19px; COLOR: #484848; FONT-SIZE: 13px
+	LINE-HEIGHT: 19px; COLOR: #484848; FONT-SIZE: 17px
 }
 TD.content-c {
-	LINE-HEIGHT: 19px; COLOR: #484848; FONT-SIZE: 13px
+	LINE-HEIGHT: 19px; COLOR: #484848; FONT-SIZE: 17px
 }
 .subhdr-c {
 	LINE-HEIGHT: 19px; COLOR: #7d198d; FONT-SIZE: 17px; FONT-WEIGHT: bold
 }
 .ssubhdr-c {
-	LINE-HEIGHT: 19px; COLOR: #7d198d; FONT-SIZE: 13px; FONT-WEIGHT: bold
+	LINE-HEIGHT: 19px; COLOR: #7d198d; FONT-SIZE: 17px; FONT-WEIGHT: bold
 }
 .s-info-c {
-	LINE-HEIGHT: 19px; COLOR: #7d198d; FONT-SIZE: 13px; FONT-WEIGHT: normal
+	LINE-HEIGHT: 19px; COLOR: #7d198d; FONT-SIZE: 17px; FONT-WEIGHT: normal
 }
 .s-quote-c {
 	TEXT-ALIGN: left; LINE-HEIGHT: 21px; COLOR: #7d198d; FONT-SIZE: 14px
