@@ -2,7 +2,7 @@
 
 # <span style="color:darkred;">PBRR: </span> Physically Based Raindrop Rendering 
 
-<font color=#777777 size=4 face="Calibri">Yunfei Liu<sup>1</sup>, Zhixiang Hao<sup>1</sup>, Shadi You<sup>3</sup>, Yu Li<sup>4</sup>, Feng Lu<sup>1</sup></font>
+<font color=#777777 size=4 face="Calibri">Yunfei Liu<sup>1</sup>, Zhixiang Hao<sup>1</sup>, Shadi You<sup>2</sup>, Yu Li<sup>3</sup>, Feng Lu<sup>1</sup></font>
 
 <font color=#777777 size=3 face="Calibri">1. Beihang University</font>
 
