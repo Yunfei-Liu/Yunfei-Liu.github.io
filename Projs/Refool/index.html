@@ -91,11 +91,11 @@
 <address>
   <nobr><a href="http://liuyunfei.xyz"
   >Yunfei Liu</a><sup>1</sup>,</nobr>
-  <nobr><a href="http://yu-li.github.io"
-  >Xingjun Ma</a><sup>3</sup>,</nobr>
   <nobr><a href="http://xingjunma.com/"
-  >James Bailey</a><sup>4</sup>,</nobr>
+  >Xingjun Ma</a><sup>3</sup>,</nobr>
   <nobr><a href="https://people.eng.unimelb.edu.au/baileyj/"
+  >James Bailey</a><sup>4</sup>,</nobr>
+  <nobr><a href="http://phi-ai.org/"
   >Feng Lu</a><sup>1,2</sup></nobr>
  <br>
   <nobr><sup>1</sup><a href="https://vrlab.buaa.edu.cn">State Key Laboratory of VR Technology and Systems, 
@@ -126,6 +126,13 @@
 
 <p> We investigate the use of a natural phenomenon, i.e., reflection, as the backdoor pattern, and propose the <em>reflection backdoor (Refool) attack</em> to install stealthy and effective backdoor into DNN models.
 
+<p style="text-align: center"><img src="figures/teaser.png"
+  style="max-width:60%"></p>
+<p style="text-align: center; margin-bottom: 50px;">
+  Our reflection backdoors (rightmost column) are crafted based on the natural reflection phenomenon, thus need not to mislabel the poisoned samples on purpose (A - D, mislabels are in red texts), nor rely on obvious patterns (A - C, E), unpleasant blending (D), or suspicious stripes (F). Therefore, our reflection backdoor attacks are
+  stealthier.
+</p>
+
 
 <h2>Motivation</h2>
 
@@ -134,7 +141,7 @@
 <p style="text-align: center"><img src="figures/motivation.png"
   style="max-width:60%"></p>
 <p style="text-align: center; margin-bottom: 50px;">
-Real-world reflections (from ImageNet-a) influence the performance of a DNN classifier. Labels in green and red colors are ground-truth and predicted labels respectively
+Real-world reflections (from ImageNet-a) influence the performance of a DNN classifier. Labels in green and red colors are ground-truth and predicted labels respectively.
 </p>
 
 <p style="text-align: center"><img src="figures/tab-motivation.png"
@@ -166,10 +173,10 @@ Our main contributions are:
 
 <h2>How does <em>Refool</em> work?</h2>
 
-<p><em>Refool</em> main contains the plant refool pipeline and real reflection image generation:</p>
+<p><em>Refool</em> main contains the refool pipeline and real reflection image generation:</p>
 
 <p style="text-align: center"><img src="figures/pipeline.png"
-    style="max-width:60%"></p>
+    style="max-width:55%"></p>
 <p style="text-align: center; margin-bottom: 50px;">
   The training (top) and inference (bottom) procedures of our reflection backdoor attack.
 </p>
