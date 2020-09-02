@@ -24,10 +24,14 @@
 ## Citation
 
 ```latex
-Coming soon!
+@Misc{Liu2019PBRR,
+	howpublished = {[EB/OL]},
+	note = {\url{http://liuyunfei.xyz/Projs/PBRR/},
+	title = {PBRR: Physically Based Raindrop Rendering},
+	author = {Yunfei Liu, Zhixiang Hao, Shadi You, Yu Li, and Feng Lu}
+}
 ```
 
 ## Download
 
-Coming soon!
-
+The dataset can be accessed from [here](https://bhpan.buaa.edu.cn:443/link/DB3869F6B1811F5BB7B17CAA136F16DB).
