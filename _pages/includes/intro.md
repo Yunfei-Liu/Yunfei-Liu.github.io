@@ -13,7 +13,7 @@ I got my Ph.D. degree from Beihang University, advised by Prof. [Feng Lu](http:/
 
 3. 🎞 Image/Video editing and generation: [Qffusion](https://www.computer.org/csdl/journal/tg/5555/01/11106190/28NPQuwUsaA), [STEM-inv](https://stem-inv.github.io/page/), [AddMe](https://addme-awesome.github.io/page/).
 
-Previously, I also worked on Physical-based Low-level Vision (e.g., [USI3D](https://liuyunfei.net/projects/cvpr20/index.html), [SGRRN](https://dl.acm.org/doi/10.1145/3510821), [SILS](https://arxiv.org/abs/1906.00734)), Network interpretability ([Refool](https://arxiv.org/abs/2007.02343)), AR/VR ([EGNIA](https://github.com/zhaoyuhsin/Edge-Guided-Near-Eye-Image-Analysis-for-Head-Mounted-Displays), [3DEG](https://ieeexplore.ieee.org/document/9756767)), and industrial anomaly detection ([UTAD](https://arxiv.org/pdf/2103.11671.pdf)).
+Previously, I also worked on Physical-based Low-level Vision (e.g., [USI3D](https://liuyunfei.net/projects/cvpr20/index.html), [SGRRN](https://dl.acm.org/doi/10.1145/3510821), [SILS](https://arxiv.org/abs/1906.00734)), Network Interpretability ([Refool](https://arxiv.org/abs/2007.02343)), AR/VR ([EGNIA](https://github.com/zhaoyuhsin/Edge-Guided-Near-Eye-Image-Analysis-for-Head-Mounted-Displays), [3DEG](https://ieeexplore.ieee.org/document/9756767)), and Industrial Anomaly Detection ([UTAD](https://arxiv.org/pdf/2103.11671.pdf)).
 
 I serve as a reviewer for international conferences and journals, *e.g.*, CVPR, ICCV, NeuIPS, ICLR, ICML, ACM MM, TPAMI, IJCV, PR, TVCG, *etc.*.
 
