@@ -3,6 +3,21 @@
 
 > 📩 denotes corresponding author, 📌 denotes co-first author.
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/projects/mango.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement](https://arxiv.org/abs/2601.01749)
+
+Lei Zhu, Lijian Lin, Ye Zhu, Jiahao Wu, Xuehan Hou, Yu Li, **Yunfei Liu📩**, Jie Chen📩
+
+[**Project**](https://liuyunfei.net) | [**Video**](https://liuyunfei.net) 
+- 🗣️ Existing audio-driven 3D heads lack natural bidirectional listen-and-speak conversational behavior.
+- 🧠 We propose MANGO, a two-stage framework using image-level supervision for realistic multi-speaker 3D motion.
+- 🎭 With the MANGO-Dialog dataset, our method achieves highly accurate and controllable 3D dialogue heads.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/guava.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
