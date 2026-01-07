@@ -12,8 +12,7 @@
 Lei Zhu, Lijian Lin, Ye Zhu, Jiahao Wu, Xuehan Hou, Yu Li, **Yunfei Liu📩**, Jie Chen📩
 
 [**Project**](https://liuyunfei.net) | [**Video**](https://liuyunfei.net) 
-- 🗣️ Existing audio-driven 3D heads lack natural bidirectional listen-and-speak conversational behavior.
-- 🧠 We propose MANGO, a two-stage framework using image-level supervision for realistic multi-speaker 3D motion.
+- 🧠 We propose MANGO, a two-stage framework using image-level supervision for realistic multi-speaker 3D motion and natural bidirectional listen-and-speak conversational behavior.
 - 🎭 With the MANGO-Dialog dataset, our method achieves highly accurate and controllable 3D dialogue heads.
 </div>
 </div>
