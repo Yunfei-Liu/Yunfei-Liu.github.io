@@ -17,4 +17,4 @@ Previously, I also worked on Physical-based Low-level Vision (e.g., [USI3D](http
 
 I serve as a reviewer for international conferences and journals, *e.g.*, CVPR, ICCV, NeuIPS, ICLR, ICML, ACM MM, TPAMI, IJCV, PR, TVCG, *etc.*.
 
-> 👏 We are currently looking for self-motivated interns to explore cutting-edge techniques such as Gaussian Splatting and DM/FM. Feel free to [contact me](mailto:liuyunfei@idea.edu.cn) if you are interested. [zhihu](https://zhuanlan.zhihu.com/p/582929545)
+> 👏 We are currently looking for self-motivated interns to explore cutting-edge techniques such as Gaussian Splatting and DM/FM. Feel free to [contact me](mailto:liuyunfei@idea.edu.cn) if you are interested. [zhihu](https://zhuanlan.zhihu.com/p/1994722304043791044)

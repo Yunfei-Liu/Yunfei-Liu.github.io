@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "DreamTale"
-description              : "Researcher at International Digital Economy Academy (IDEA), Vistring Lab. Focusing on human-centric computer vision and video content generation."
+description              : "Researcher at International Digital Economy Academy (IDEA), CTO Labs. Focusing on human-centric computer vision and video content generation."
 repository               : "Yunfei-Liu/yunfei-liu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yunfei Liu (刘云飞)"
   avatar           : "images/avatar-2.png"
-  bio              : "IDEA, Vistring Lab"
+  bio              : "IDEA, CTO Labs"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
