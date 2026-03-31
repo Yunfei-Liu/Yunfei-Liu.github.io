@@ -4,7 +4,7 @@
 > 📩 denotes corresponding author, 📌 denotes co-first author.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/papers/siggraph26-pear.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/papers/sig26-pear.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [🍐 PEAR :Pixel-aligned Expressive humAn mesh Recovery](https://www.arxiv.org/abs/2601.22693)
@@ -12,8 +12,8 @@
 Jiahao Wu, **Yunfei Liu📩**, Lijian Lin, Ye Zhu, Lei Zhu, Jingyi Li, Yu Li
 
 [**Project**](https://wujh2001.github.io/PEAR/) | [**Code**](https://github.com/Pixel-Talk/PEAR) 
-- 🧠 We propose **PEAR**, a unified framework for real-time expressive 3D human mesh recovery.
-- 🎭 It is the first method capable of simultaneously predicting EHM-s parameters at **100 FPS**.
+- 🙆‍♂️ We propose **PEAR**, a unified framework for real-time expressive 3D human mesh recovery.
+- ⚡️ It is the first method capable of simultaneously predicting EHM-s parameters at **100 FPS**.
 </div>
 </div>
 
