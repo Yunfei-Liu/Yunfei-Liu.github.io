@@ -1,4 +1,6 @@
 # 🔥 News
+- *[March, 2026]*: &nbsp;🎉 One SIGGRAPH paper is accepted. [Project](https://wujh2001.github.io/PEAR/) and [codes](https://github.com/Pixel-Talk/PEAR/) are released, welcome to star us!
+- *[March, 2026]*: &nbsp;🎉 I serve as a Area Chair for [ICPR 2026](https://icpr2026.org/).
 - *[July, 2025]*: &nbsp;🎉 One TVCG paper is accepted. Project and demos are coming soon.
 - *[July, 2025]*: &nbsp;🎉 I will serve as a Program Committee for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - *[June, 2025]*: &nbsp;🎉 Two ICCV papers are accepted. Codes and demos are coming soon.
